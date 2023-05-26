@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalonAct", "SalonAct\SalonAct.csproj", "{A2D20FFD-602E-439F-BA45-E521A978F4C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D20FFD-602E-439F-BA45-E521A978F4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D20FFD-602E-439F-BA45-E521A978F4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D20FFD-602E-439F-BA45-E521A978F4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D20FFD-602E-439F-BA45-E521A978F4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69ABED7-1AF4-41CA-A6D9-32B60A334D36}
+	EndGlobalSection
+EndGlobal
